@@ -1,8 +1,0 @@
-randn + (no normal) + torch.sign + clamp = 95%
-randn + (no normal) + torch.tahn + clamp = 95%
-randd + normal + /len (on z2) + relu (on z2) = 97
-
-I received my undergraduate B.A. degree majored in Communications, and have a Master degree in New Media Mangement from S.I. Newhouse School of Public Communications at Syracuse University. I have been an intern journalist in undergraduate school.
-
-- When I was working at Baidu I was in the Backend Engineering team, whose major part of work includes: 1) build information retrieval system for product and 2) data integration and analyzation. 
-- I am currently working as a computer consultant at Bloomberg School of Public Health of Johns Hopkins University, where I help maintain several cloud-based servers (AWS, Linode etc)
